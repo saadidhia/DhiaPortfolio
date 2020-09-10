@@ -139,7 +139,8 @@ const Resume = () => {
             align="center"
             className={classes.subtitle1}
           >
-           <p>- Development of SAB customer maintenance statistics and indicators consultation portal and generation of monthly monitoring reporting<br/> for the account manager .</p>
+           <p>- Development of a statistics consultation portal and SAB customer maintenance indicators and reporting generation
+monthly follow-up for the account manager .</p>
           <p> -Github Link :<a href="https://github.com/saadidhia/Sab2020"> https://github.com/saadidhia/Sab2020 . </a> </p>
 
           </Typography>
@@ -166,7 +167,8 @@ const Resume = () => {
             align="center"
             className={classes.subtitle1}
           >
-            - Development of a synchronized EasyVista incident reference to manage customer incidents using Talend Jobs.
+            <p>-Development of a synchronized EasyVista incident to manage customer incidents with an access library using the Talend studio version 7.2 . </p>
+            
           </Typography>
         </Box>
         <Typography
@@ -191,10 +193,10 @@ const Resume = () => {
             align="center"
             className={classes.subtitle1}
           >
-           -Development swift Trace prologiciel , Realtime application performance monitoring . <br/>
-           -Metrics about users : Active user, Recently used user, Today visitors .<br/>
-           -Metrics about services : Active service, TPS, Response Time, Application ,profiles . <br/>
-           -Metrics about resources : Cpu, Memory, Network and heap usage, Connection pools .
+          <p> -Development swift Trace prologiciel, Realtime application performance monitoring .</p> 
+           <p>-Metrics about users : Active user, Recently used user, Today visitors .</p>
+           <p>-Metrics about services : Active service, TPS, Response Time, Application, profiles . </p>
+           <p>-Metrics about resources : Cpu, Memory, Network and heap usage, Connection pools .</p>
 
           </Typography>
         </Box>
@@ -220,9 +222,8 @@ const Resume = () => {
             align="center"
             className={classes.subtitle1}
           >
-            -Designing and development a web site similar to Tunisia postal with
-             added functionalities .<br/>
-            -Participating in modeling D17 mobile application 
+            <p>-Designing and development a web site similar to Tunisia postal with added functionalities .</p>
+           <p> -Participating in modeling D17 mobile application </p>
           </Typography>
         </Box>
       </Box>
